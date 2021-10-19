@@ -2,3 +2,4 @@ pony
 fastapi
 pydantic[email]
 uvicorn
+gunicorn
