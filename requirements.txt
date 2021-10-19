@@ -1,4 +1,4 @@
 pony
-fastapi[all]
+fastapi
 pydantic[email]
 uvicorn
