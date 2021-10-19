@@ -1,0 +1,4 @@
+pony
+fastapi[all]
+pydantic[email]
+uvicorn
